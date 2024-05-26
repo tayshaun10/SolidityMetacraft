@@ -18,7 +18,9 @@ contract HelloWorld {
         return "Hello World!";
     }
 }
+```
 #Authors
+
 Tayshaun Rala
 @tayshaunrala@gmail.com
 
