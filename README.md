@@ -10,7 +10,7 @@ To run this program, you can use Remix, an online Solidity IDE. Follow these ste
 2. Create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., HelloWorld.sol).
 3. Copy and paste the following code into the file:
 
-#solidity
+```solidity
 pragma solidity ^0.8.4;
 
 contract HelloWorld {
@@ -18,9 +18,9 @@ contract HelloWorld {
         return "Hello World!";
     }
 }
-Authors
+#Authors
 Tayshaun Rala
 @tayshaunrala@gmail.com
 
-License
+#License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
